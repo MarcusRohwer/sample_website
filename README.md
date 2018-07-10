@@ -2,4 +2,4 @@
 
 This is a sample website just for training HTML.
 
-For more see this [tutorial](https://www.learnenough.com/html-tutorial).
+For more informations see this [tutorial](https://www.learnenough.com/html-tutorial).
